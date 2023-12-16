@@ -1,0 +1,11 @@
+{
+  "LogFile": null,
+  "TimeStep": 1,
+  "SleepTime": 1,
+  "Seed": 1,
+  "MinPlaneDist": 2000,
+  "AirportZoneRadius": 1000,
+  "RoutesCount": 3,
+  "AirstripLength": 300,
+  "MaxPlanesAtRoute": 1
+}

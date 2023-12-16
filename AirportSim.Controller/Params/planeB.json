@@ -1,0 +1,11 @@
+{
+  "LogFile": "/Users/iliat/RiderProjects/AirportSim/Logs/",
+  "TimeStep": 1,
+  "SleepTime": 0.5,
+  "Seed": 1,
+  "Position": {
+    "X": 2000,
+    "Y": 2000
+  },
+  "Speed": 100
+}

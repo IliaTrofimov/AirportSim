@@ -1,0 +1,7 @@
+{
+  "LogFile": null,
+  "TimeStep": 1,
+  "SleepTime": 1,
+  "Seed": 1,
+  "WeatherChangeProbability": 0.002
+}

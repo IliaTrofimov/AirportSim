@@ -1,0 +1,12 @@
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/bin/Debug/net8.0/AirportSim.Library.deps.json
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/bin/Debug/net8.0/AirportSim.Library.dll
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/bin/Debug/net8.0/AirportSim.Library.pdb
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.csproj.AssemblyReference.cache
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.AssemblyInfoInputs.cache
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.AssemblyInfo.cs
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.csproj.CoreCompileInputs.cache
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.dll
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/refint/AirportSim.Library.dll
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/AirportSim.Library.pdb
+/Users/iliat/RiderProjects/AirportSim/AirportSim.Library/obj/Debug/net8.0/ref/AirportSim.Library.dll
